@@ -1,0 +1,54 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S-Tech International : Home</title>
+</head>
+<script src="script.js"></script>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body onload="fill()">
+    <div class="search">
+        <div class="searchbox">
+            <input type="text" placeholder="Search repositories..." id="searcher" oninput="oninp()" onclick="clr()" onkeypress="search(event)" autofocus>
+        </div>
+        <div class="res"></div>
+    </div>
+    <div class="container-for-all">
+        <div class="main">
+            <div class="secbtn">
+                <div>
+                    <span class="allbtn" style="background-color: blue;" onclick="show_all()">All</span><span class="pinbtn" onclick="show_pin()">Pinned</span>
+                </div>
+            </div>
+            <div class="all">
+                <table id="all_rep">
+                    <tr><th>Name</th><th>Repository</th><th>Created</th><th>Last Updated</th><th>Action</th></tr>
+                </table>
+            </div>
+        </div>
+        <div class="src_result">
+            <button onclick="toggle_home()"><i class="fa fa-home"></i>Home</button>
+            <h1 id="src_head"></h1>
+            <table id="src_res">
+            </table>
+        </div>
+        <div class="container-for-single">
+            <div class="cfs-controls" style="border: none;">
+                <button onclick="toggle_home()"><i class="fa fa-home"></i>Home</button>
+            </div>
+            <div class="rep_name"></div>
+            <div class="rep_title"></div>
+            <div class="rep_created"></div>
+            <div class="rep_lstupd"></div>
+            <div class="rep_link"></div>
+            <div class="rep_srccode"></div>
+            <div class="add_notes" style="border: none;"></div>
+        </div>
+        <div class="pin">
+            <table id="pin_rep"></table>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,219 @@
+html{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: black;
+    color: #F77F00;
+}
+
+::placeholder,textarea{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.search{
+    display: block;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.searchbox{
+    display: block;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+#searcher{
+    position: relative;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 50px;
+    width: 50%;
+    font-size: x-large;
+    padding: 25px;
+    background-color: black;
+    border: 3px solid aqua;
+    color: rgb(0,255,0);
+    border-radius: 30px;
+}
+
+#searcher::placeholder{
+    color: red;
+}
+
+.container-for-all{
+    display: block;
+    width: 100%;
+    position: absolute;
+    top: 12.5%;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+.container-for-all span{
+    display: inline-block;
+    border: 3px solid blue;
+    color: white;
+    font-size: x-large;
+    width: 100px;
+    padding: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+.all{
+    text-align: center;
+}
+
+#all_rep,#pin_rep{
+    width: 100%;
+    text-align: center;
+}
+.res{
+    display: block;
+    width: 500px;
+    margin: auto;
+    position: relative;
+    top: 60;
+    z-index: 2;
+}
+.res div{
+    font-size: x-large;
+    padding: 10px 25px 10px 25px;
+    background-color: white;
+    color: black;
+}
+
+.res div:hover{
+    background-color: lightgrey;
+    cursor: pointer;
+}
+
+#all_rep tr th, #pin_rep tr th,#src_res tr th{
+    background-color: lime;
+    border: 4px solid deeppink;
+    color: black;
+    font-size: larger;
+    padding: 5px;
+}
+
+#all_rep tr td, #pin_rep tr td,#src_res tr td{
+    padding: 10px 25px 10px 25px;
+    border: 2px solid lightseagreen;
+    font-size: x-large;
+}
+
+#all_rep tr td a, #pin_rep tr td a,#src_res tr td a{
+    text-decoration: none;
+    color: red;
+}
+
+#all_rep tr td button, #pin_rep tr td button,#src_res tr td button{
+    color: blue;
+    border: 3px solid blue;
+    background-color: white;
+    margin: 0 2.5px;
+    font-size: large;
+}
+
+.main{
+    display: block;
+}
+
+.src_result{
+    display: none;
+    color: yellow;
+}
+
+#src_res{
+    width: 100%;
+    text-align: center;
+    font-size: x-large;
+}
+.container-for-single{
+    display: none;
+    font-size: xx-large;
+    text-align: left;
+    border: 2px solid aqua;
+    color: rgb(0,110,255);
+    background-color: black;
+    padding: 5px;
+}
+
+.container-for-single div{
+    padding: 0.5% 1% 0.5% 1%;
+    border: 1px solid yellow;
+    margin: 5px;
+}
+
+.container-for-single .cfs-controls{
+    text-align: center;
+}
+
+.container-for-single a{
+    text-decoration: none;
+    color: red;
+}
+
+.add_notes textarea{
+    background-color: yellow;
+    color: black;
+    display: block;
+    margin: 0 auto 0 auto;
+    width: 50%;
+    height: 200px;
+    resize: none;
+    font-size: larger;
+    border: 3px solid red;
+}
+
+.add_notes textarea::placeholder{
+    color: black;
+}
+
+.cfs-controls button{
+    background-color: crimson;
+    border: 3px solid crimson;
+    color: white;
+    font-size: x-large;
+    margin: 0 5px;
+}
+
+.src_result button{
+    background-color: crimson;
+    border: 3px solid crimson;
+    color: white;
+    font-size: x-large;
+    margin: 0 5px;
+}
+
+@media (max-width: 385px) {
+    body,.search,.searchbox,#all_rep,.all,#pin_rep,.container-for-single{
+        width: 385px;
+    }
+    #all_rep tr td,#all_rep tr th,#all_rep tr td button,#pin_rep tr td,#pin_rep tr th,#pin_rep tr td button,#src_res tr td,#src_res tr th,#src_res tr td button{
+        font-size: 12px;
+        padding: 0.5%;
+    }
+    #all_rep tr th,#pin_rep tr th,#src_res tr th{
+        border: 2px solid deeppink;
+    }
+    #all_rep tr td button,#pin_rep tr td button,#src_res tr td button{
+        border: 1px solid blue;
+        background-color: blue;
+        color: white;
+        font-size: 11px;
+    }
+    #searcher,.res{
+        width: 80%;
+    }
+    .container-for-single a{
+        word-wrap: break-word;
+    }
+    .container-for-single textarea{
+        width: 80%;
+        height: 200px;
+        background-color: yellow;
+        color: black;
+    }
+}
