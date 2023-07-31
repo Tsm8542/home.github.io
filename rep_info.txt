@@ -134,3 +134,13 @@ Last updated: January 9,2023
 Title: Project-Manipulator
 Created: March 27,2023
 Last updated: March 27,2023
+
+24. tallyprimeaicptr.github.io
+Title: TallyPrime
+Created: July 30,2023
+Last updated: July 30,2023
+
+25. advancedexcelaicptr.github.io
+Title: Excel
+Created: July 30,2023
+Last updated: July 30,2023
