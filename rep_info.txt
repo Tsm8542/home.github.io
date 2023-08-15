@@ -1,4 +1,4 @@
-23 repositories in total
+27 repositories in total
 File last updated: 22-04-2023 08:08 PM
 
 1. music.github.io 
@@ -144,3 +144,13 @@ Last updated: July 30,2023
 Title: Excel
 Created: July 30,2023
 Last updated: July 30,2023
+
+26. photoshopaicptr.github.io
+Title: Photoshop
+Created: August 03,2023
+Last updated: August 03,2023
+
+27. pcoperationaicptr.github.io
+Title: PC Operation
+Created: August 04,2023
+Last updated: August 04,2023
