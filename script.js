@@ -208,13 +208,29 @@ var stech =
         rep_lst_upd:"04 Aug,2023",
         rep_src:"https://github.com/Tsm8542/pcoperationaicptr.github.io"},
 
-    //*27*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:""},
+    /*27*/{
+        rep_name:"coreldrawaicptr.github.io",
+        rep_url:"https://tsm8542.github.io/coreldrawaicptr.github.io",
+        title:"Corel Draw",
+        rep_created:"15 Aug,2023",
+        rep_lst_upd:"18 Aug,2023",
+        rep_src:"https://github.com/Tsm8542/coreldrawaicptr.github.io"},
     
-    //*28*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:""},
+    //*28*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
     
-    //*29*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:""},
+    //*29*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
     
-    //*30*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:""},
+    //*30*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    
+    //*31*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    
+    //*32*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    
+    //*33*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    
+    //*34*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    
+    //*35*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
 ];
 
 var rep_name = [];
