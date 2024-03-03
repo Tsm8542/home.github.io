@@ -125,7 +125,7 @@ var stech =
         rep_url:"https://tsm8542.github.io/search.github.io/",
         title:"Eazy-Surfer",
         rep_created:"4 Dec,2022",
-        rep_lst_upd:"2 Aug,2023",
+        rep_lst_upd:"17 Oct,2023",
         rep_src:"https://www.github.com/Tsm8542/search.github.io/"},
     
     /*17*/{
@@ -216,57 +216,169 @@ var stech =
         rep_lst_upd:"18 Aug,2023",
         rep_src:"https://github.com/Tsm8542/coreldrawaicptr.github.io"},
     
-    /*28*/{rep_name:"arabiclang.github.io",rep_url:"https://tsm8542.github.io/arabiclang.github.io",title:"Arabic",rep_created:"03 Sep,2023",rep_lst_upd:"03 Oct, 2023",rep_src:"https://github.com/Tsm8542/arabiclang.github.io"},
+    /*28*/{
+        rep_name:"arabiclang.github.io",
+        rep_url:"https://tsm8542.github.io/arabiclang.github.io",
+        title:"Arabic",
+        rep_created:"03 Sep,2023",
+        rep_lst_upd:"03 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/arabiclang.github.io"},
     
-    /*29*/{rep_name:"bengalilang.github.io",rep_url:"https://tsm8542.github.io/bengalilang.github.io",title:"Bengali",rep_created:"03 Oct,2023",rep_lst_upd:"03 Oct, 2023",rep_src:"https://github.com/Tsm8542/bengalilang.github.io"},
+    /*29*/{
+        rep_name:"bengalilang.github.io",
+        rep_url:"https://tsm8542.github.io/bengalilang.github.io",
+        title:"Bengali",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"03 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/bengalilang.github.io"},
 
-    /*30*/{rep_name:"chineselang.github.io",rep_url:"https://tsm8542.github.io/chineselang.github.io",title:"Chinese",rep_created:"03 Oct,2023",rep_lst_upd:"03 Oct, 2023",rep_src:"https://github.com/Tsm8542/chineselang.github.io"},
+    /*30*/{
+        rep_name:"chineselang.github.io",
+        rep_url:"https://tsm8542.github.io/chineselang.github.io",title:"Chinese",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"03 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/chineselang.github.io"},
 
-    /*31*/{rep_name:"englishlang.github.io",rep_url:"https://tsm8542.github.io/englishlang.github.io",title:"English",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/englishlang.github.io"},
+    /*31*/{
+        rep_name:"englishlang.github.io",
+        rep_url:"https://tsm8542.github.io/englishlang.github.io",title:"English",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/englishlang.github.io"},
 
-    /*32*/{rep_name:"frenchlang.github.io",rep_url:"https://tsm8542.github.io/frenchlang.github.io",title:"French",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/frenchlang.github.io"},
+    /*32*/{
+        rep_name:"frenchlang.github.io",
+        rep_url:"https://tsm8542.github.io/frenchlang.github.io",title:"French",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/frenchlang.github.io"},
 
-    /*33*/{rep_name:"germanlang.github.io",rep_url:"https://tsm8542.github.io/germanlang.github.io",title:"German",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/germanlang.github.io"},
+    /*33*/{
+        rep_name:"germanlang.github.io",
+        rep_url:"https://tsm8542.github.io/germanlang.github.io",title:"German",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/germanlang.github.io"},
 
-    /*34*/{rep_name:"gujaratilang.github.io",rep_url:"https://tsm8542.github.io/gujaratilang.github.io",title:"Gujarati",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/gujaratilang.github.io"},
+    /*34*/{
+        rep_name:"gujaratilang.github.io",
+        rep_url:"https://tsm8542.github.io/gujaratilang.github.io",title:"Gujarati",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/gujaratilang.github.io"},
 
-    /*35*/{rep_name:"hindilang.github.io",rep_url:"https://tsm8542.github.io/hindilang.github.io",title:"Hindi",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/hindilang.github.io"},
+    /*35*/{
+        rep_name:"hindilang.github.io",
+        rep_url:"https://tsm8542.github.io/hindilang.github.io",title:"Hindi",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/hindilang.github.io"},
 
-    /*36*/{rep_name:"japaneselang.github.io",rep_url:"https://tsm8542.github.io/japaneselang.github.io",title:"Japanese",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/japaneselang.github.io"},
+    /*36*/{
+        rep_name:"japaneselang.github.io",
+        rep_url:"https://tsm8542.github.io/japaneselang.github.io",title:"Japanese",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/japaneselang.github.io"},
 
-    /*37*/{rep_name:"kannadlang.github.io",rep_url:"https://tsm8542.github.io/kannadlang.github.io",title:"Kannad",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/kannadlang.github.io"},
+    /*37*/{
+        rep_name:"kannadlang.github.io",
+        rep_url:"https://tsm8542.github.io/kannadlang.github.io",title:"Kannad",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/kannadlang.github.io"},
 
-    /*38*/{rep_name:"marathilang.github.io",rep_url:"https://tsm8542.github.io/marathilang.github.io",title:"Marathi",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/marathilang.github.io"},
+    /*38*/{
+        rep_name:"marathilang.github.io",
+        rep_url:"https://tsm8542.github.io/marathilang.github.io",title:"Marathi",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/marathilang.github.io"},
 
-    /*39*/{rep_name:"persianlang.github.io",rep_url:"https://tsm8542.github.io/persianlang.github.io",title:"Persian",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/persianlang.github.io"},
+    /*39*/{
+        rep_name:"persianlang.github.io",
+        rep_url:"https://tsm8542.github.io/persianlang.github.io",title:"Persian",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/persianlang.github.io"},
 
-    /*40*/{rep_name:"russianlang.github.io",rep_url:"https://tsm8542.github.io/russianlang.github.io",title:"Russian",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/russianlang.github.io"},
+    /*40*/{
+        rep_name:"russianlang.github.io",
+        rep_url:"https://tsm8542.github.io/russianlang.github.io",title:"Russian",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/russianlang.github.io"},
 
-    /*41*/{rep_name:"sanskritlang.github.io",rep_url:"https://tsm8542.github.io/sanskritlang.github.io",title:"Sanskrit",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/sanskritlang.github.io"},
+    /*41*/{
+        rep_name:"sanskritlang.github.io",
+        rep_url:"https://tsm8542.github.io/sanskritlang.github.io",title:"Sanskrit",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/sanskritlang.github.io"},
 
-    /*42*/{rep_name:"sindhilang.github.io",rep_url:"https://tsm8542.github.io/sindhilang.github.io",title:"Sindhi",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/sindhilang.github.io"},
+    /*42*/{
+        rep_name:"sindhilang.github.io",
+        rep_url:"https://tsm8542.github.io/sindhilang.github.io",title:"Sindhi",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/sindhilang.github.io"},
 
-    /*43*/{rep_name:"spanishlang.github.io",rep_url:"https://tsm8542.github.io/spanishlang.github.io",title:"Spanish",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/spanishlang.github.io"},
+    /*43*/{
+        rep_name:"spanishlang.github.io",
+        rep_url:"https://tsm8542.github.io/spanishlang.github.io",title:"Spanish",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/spanishlang.github.io"},
 
-    /*44*/{rep_name:"tamillang.github.io",rep_url:"https://tsm8542.github.io/tamillang.github.io",title:"Tamil",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/tamillang.github.io"},
+    /*44*/{
+        rep_name:"tamillang.github.io",
+        rep_url:"https://tsm8542.github.io/tamillang.github.io",title:"Tamil",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/tamillang.github.io"},
 
-    /*45*/{rep_name:"telugulang.github.io",rep_url:"https://tsm8542.github.io/telugulang.github.io",title:"Telugu",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/telugulang.github.io"},
+    /*45*/{
+        rep_name:"telugulang.github.io",
+        rep_url:"https://tsm8542.github.io/telugulang.github.io",title:"Telugu",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/telugulang.github.io"},
 
-    /*46*/{rep_name:"urdulang.github.io",rep_url:"https://tsm8542.github.io/urdulang.github.io",title:"Urdu",rep_created:"03 Oct,2023",rep_lst_upd:"04 Oct, 2023",rep_src:"https://github.com/Tsm8542/urdulang.github.io"},
+    /*46*/{
+        rep_name:"urdulang.github.io",
+        rep_url:"https://tsm8542.github.io/urdulang.github.io",title:"Urdu",
+        rep_created:"03 Oct,2023",
+        rep_lst_upd:"04 Oct, 2023",
+        rep_src:"https://github.com/Tsm8542/urdulang.github.io"},
 
-    //*47*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    /*47*/{
+        rep_name:"mathtextbooks.github.io",
+        rep_url:"https://tsm8542.github.io/mathtextbooks.github.io",title:"Maths",
+        rep_created:"24 Jan,2024",
+        rep_lst_upd:"24 Jan,2024",
+        rep_src:"https://github.com/Tsm8542/mathtextbooks.github.io"},
     
-    //*48*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    /*48*/{
+        rep_name:"waste-detection.github.io",
+        rep_url:"https://tsm8542.github.io/waste-detection.github.io",title:"Smart Grade",
+        rep_created:"6 Feb,2024",
+        rep_lst_upd:"6 Feb,2024",
+        rep_src:"https://github.com/Tsm8542/waste-detection.github.io"},
     
-    //*49*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    /*49*/{
+        rep_name:"aiws.github.io",
+        rep_url:"https://tsm8542.github.io/aiws.github.io",title:"Smart Grade",
+        rep_created:"20 Feb,2024",
+        rep_lst_upd:"20 Feb,2024",
+        rep_src:"https://github.com/Tsm8542/aiws.github.io"},
     
-    //*50*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    ///*50*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
     
-    //*51*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    ///*51*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
     
-    //*52*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    ///*52*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
     
-    //*53*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
+    ///*53*/{rep_name:"",rep_url:"https://tsm8542.github.io/",title:"",rep_created:"",rep_lst_upd:"",rep_src:"https://github.com/Tsm8542/"},
 ];
 
 var rep_name = [];

@@ -97,7 +97,7 @@ Last updated: November 10,2022
 17. search.github.io
 Title: Eazy-Surfer
 Created: December 4,2022
-Last updated: December 4,2022
+Last updated: October 17,2023
 
 
 18. math.github.io
@@ -159,3 +159,108 @@ Last updated: August 04,2023
 Title: Corel Draw
 Created: August 15,2023
 Last updated: August 18,2023
+
+29. bengalilang.github.io
+Title: Bengali
+Created: October 03,2023
+Last updated: October 03,2023
+
+30. chineselang.github.io
+Title: Chinese
+Created: October 03,2023
+Last updated: October 03,2023
+
+31. englishlang.github.io
+Title: English
+Created: October 03,2023
+Last updated: October 04,2023
+
+32. frenchlang.github.io
+Title: French
+Created: October 03,2023
+Last updated: October 04,2023
+
+33. germanlang.github.io
+Title: German
+Created: October 03,2023
+Last updated: October 04,2023
+
+34. gujaratilang.github.io
+Title: Gujarati
+Created: October 03,2023
+Last updated: October 04,2023
+
+35. hindilang.github.io
+Title: Hindi
+Created: October 03,2023
+Last updated: October 04,2023
+
+36. japaneselang.github.io
+Title: Japanese
+Created: October 03,2023
+Last updated: October 04,2023
+
+37. kannadlang.github.io
+Title: Kannad
+Created: October 03,2023
+Last updated: October 04,2023
+
+38. marathilang.github.io
+Title: Marathi
+Created: October 03,2023
+Last updated: October 04,2023
+
+39. persianlang.github.io
+Title: Persian
+Created: October 03,2023
+Last updated: October 04,2023
+
+40. russianlang.github.io
+Title: Russian
+Created: October 03,2023
+Last updated: October 04,2023
+
+41. sanskritlang.github.io
+Title: Sanskrit
+Created: October 03,2023
+Last updated: October 04,2023
+
+42. sindhilang.github.io
+Title: Sindhi
+Created: October 03,2023
+Last updated: October 04,2023
+
+43. spanishlang.github.io
+Title: Spanish
+Created: October 03,2023
+Last updated: October 04,2023
+
+44. tamillang.github.io
+Title: Tamil
+Created: October 03,2023
+Last updated: October 04,2023
+
+45. telugulang.github.io
+Title: Telugu
+Created: October 03,2023
+Last updated: October 04,2023
+
+46. urdulang.github.io
+Title: Urdu
+Created: October 03,2023
+Last updated: October 04,2023
+
+47. mathtextbooks.github.io
+Title: Maths
+Created: January 24,2024
+Last updated: January 24,2024
+
+48. waste-detection.github.io
+Title: Smart Grade
+Created: February 06,2024
+Last updated: February 06,2024
+
+49. aiws.github.io
+Title: Smart Grade
+Created: February 20,2024
+Last updated: February 20,2024
